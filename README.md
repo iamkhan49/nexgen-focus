@@ -1,1 +1,1 @@
-**NexGen Focus** is a personal productivity web application created to enhance focus, task management, and daily efficiency. This project was built primarily for self-use and developed entirely through vibe coding, combining creativity, rapid prototyping, and practical problem-solving
+**NexGen Focus** is a personal productivity web application created to enhance focus, task management, and daily efficiency. This project was built primarily for self-use and developed entirely through vibe coding, combining creativity, rapid prototyping, and practical problem-solving.
